@@ -8,7 +8,7 @@ System, który projektujesz, będzie odwiedzany przez klientów końcowych, a wi
 4) System musi być jak najbardziej odporny na sytuacje awaryjne – jego podstawowa funkcjonalność, czyli sprzedaż i prezentacja ofert dla klientów powinna być dostępna „zawsze”
 
 # Zadanie:
-### [#TYDZIEN2.1]
+## [#TYDZIEN2.1]
 Na bazie poznanych wzorców projektowych wybierz 3, które chciałbyś zastosować wraz z uzasadnieniem przy każdym z nich, dlaczego właśnie ten wzorzec projektowy będzie przydatny i jakie problemy ew. może rozwiązać. Uzasadnienie nie może być długie – przy każdym wzorcu postaraj się nie przekroczyć 5 punktów maksymalnie. Wystarczą mi 3 dobre powody.
 
 # Odpowiedzi:
@@ -32,5 +32,5 @@ Na bazie poznanych wzorców projektowych wybierz 3, które chciałbyś zastosowa
 - Odciążenie serwerów aplikacyjnych
 
 
-### [#TYDZIEN2.2]
+## [#TYDZIEN2.2]
 Jeśli to możliwe, przy wybranym wzorcu projektowym, zaproponuj, których usług byś użył, by wzorzec ten zaimplementować. Krótko uzasadnij, dlaczego będzie to najbardziej efektywne podejście.
