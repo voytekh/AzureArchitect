@@ -18,5 +18,17 @@ System, który projektujesz, będzie odwiedzany przez klientów końcowych, a wi
 - Możliwość skalowania w przypadku wzrostu obciążenia.
 - Unikamy rozbudowywania i późniejszego "zwijania" naszego środowiska w przypadku krótkotrwałych pików obciążenia
 
+## [Messaging patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/messaging)
+
+- [Competing Consumers pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers) - Kierowanie wygenerowanych przez aplikację messages do odpowiednich consumer services.
+- [Queue-Based Load Leveling pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling) - Równoważenie obciążenia.
+
+- [Priority Queue pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/priority-queue) - możliwość priorytetyzacji żądań, na przykład zapis transakcji zakupu przed zapytaniem o dostępność produktu.
+
+## [Static Content Hosting pattern](https://docs.microsoft.com/pl-pl/azure/architecture/patterns/static-content-hosting)
+- Obsługa zapytań o pliki statyczne (obrazki, materiały wideo)
+- Obsługa klienta z najbliższego CDN-a
+- Odciążenie serwerów aplikacyjnych
+
 
 [#TYDZIEN2.2]  Jeśli to możliwe, przy wybranym wzorcu projektowym, zaproponuj, których usług byś użył, by wzorzec ten zaimplementować. Krótko uzasadnij, dlaczego będzie to najbardziej efektywne podejście.
