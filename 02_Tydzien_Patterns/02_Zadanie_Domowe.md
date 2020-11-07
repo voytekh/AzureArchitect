@@ -12,6 +12,6 @@ System, który projektujesz, będzie odwiedzany przez klientów końcowych, a wi
 
 # Odpowiedzi:
 
-[Throttling pattern](https://docs.microsoft.com/pl-pl/azure/architecture/patterns/throttling)
+## [Throttling pattern](https://docs.microsoft.com/pl-pl/azure/architecture/patterns/throttling)
 
 [#TYDZIEN2.2]  Jeśli to możliwe, przy wybranym wzorcu projektowym, zaproponuj, których usług byś użył, by wzorzec ten zaimplementować. Krótko uzasadnij, dlaczego będzie to najbardziej efektywne podejście.
