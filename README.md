@@ -1,2 +1,3 @@
 # AzureArchitect
-Szkolenie Azure Architect - Chmurowisko.pl
+Architecting Microsoft Azure Solutions
+Szkolenie - Chmurowisko.pl
