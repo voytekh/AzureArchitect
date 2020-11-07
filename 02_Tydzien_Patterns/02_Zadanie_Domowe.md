@@ -10,4 +10,8 @@ System, który projektujesz, będzie odwiedzany przez klientów końcowych, a wi
 # Zadanie:
 [#TYDZIEN2.1]  Na bazie poznanych wzorców projektowych wybierz 3, które chciałbyś zastosować wraz z uzasadnieniem przy każdym z nich, dlaczego właśnie ten wzorzec projektowy będzie przydatny i jakie problemy ew. może rozwiązać. Uzasadnienie nie może być długie – przy każdym wzorcu postaraj się nie przekroczyć 5 punktów maksymalnie. Wystarczą mi 3 dobre powody.
 
+# Odpowiedzi:
+
+[Throttling pattern](https://docs.microsoft.com/pl-pl/azure/architecture/patterns/throttling)
+
 [#TYDZIEN2.2]  Jeśli to możliwe, przy wybranym wzorcu projektowym, zaproponuj, których usług byś użył, by wzorzec ten zaimplementować. Krótko uzasadnij, dlaczego będzie to najbardziej efektywne podejście.
