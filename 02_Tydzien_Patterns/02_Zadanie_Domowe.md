@@ -14,4 +14,9 @@ System, który projektujesz, będzie odwiedzany przez klientów końcowych, a wi
 
 ## [Throttling pattern](https://docs.microsoft.com/pl-pl/azure/architecture/patterns/throttling)
 
+- Możliwość przyznania określonych zasobów dla żądań klientów, pozwoli to na uniknięcie przeciążenia projektowanego systemu.
+- Możliwość skalowania w przypadku wzrostu obciążenia.
+- Unikamy rozbudowywania i późniejszego "zwijania" naszego środowiska w przypadku krótkotrwałych pików obciążenia
+
+
 [#TYDZIEN2.2]  Jeśli to możliwe, przy wybranym wzorcu projektowym, zaproponuj, których usług byś użył, by wzorzec ten zaimplementować. Krótko uzasadnij, dlaczego będzie to najbardziej efektywne podejście.
