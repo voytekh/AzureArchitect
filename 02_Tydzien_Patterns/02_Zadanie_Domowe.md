@@ -35,7 +35,7 @@ Na bazie poznanych wzorców projektowych wybierz 3, które chciałbyś zastosowa
 ## [#TYDZIEN2.2]:
 Jeśli to możliwe, przy wybranym wzorcu projektowym, zaproponuj, których usług byś użył, by wzorzec ten zaimplementować. Krótko uzasadnij, dlaczego będzie to najbardziej efektywne podejście.
 
-Throttling pattern: API Management
+Throttling pattern: API  Management1
 
 Messaging pattern: Service Bus
 
