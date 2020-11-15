@@ -9,10 +9,30 @@ Docelowo, wszystkie kluczowe ustawienia, tak jak np. nazwy lokalnych administrat
 # Zadanie:
 Zadanie ma 4 etapy, zrób wszystkie 4 by zebrać jak największą liczbę punktów!
 
-## [#TYDZIEN2.1]:
-
 ## [#TYDZIEN3.1]:
 Zbuduj prostą konwencję nazewniczą dla min. takich zasobów jak Grupa Zasobów, VNET, Maszyn Wirtualna, Dysk, Konta składowania danych. Pamiętaj o ograniczeniach w nazywaniu zasobów, które występują w Azure.
+
+# Odpowiedz3.1:
+
+Nie wymyślając koła i bazując na dobrych praktykach które znalazłem pod adresem:
+
+## [Recommended naming and tagging conventions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging)
+
+Wymyśliłem poniższą konwencję nazw dla obiektów:
+
+<business unit>-<asset type>-<region or subregion>-<number>
+
+## Przykłady dla każdego modułu:
+
+- business unit:
+- asset type:
+- environment:
+- region or subregion:
+- number
+
+Kilka interesujących artykułów do rozważenia:
+
+[Rozważania dotyczące skrócenia nazw regionów, w przypadku bardzo długiej nazwy zasobu, każdy znak na wagę złota :)](http://www.mattruma.com/adventures-with-azure-regions/)
 
 ## [#TYDZIEN3.2]:
 Zbuduj prosty ARM Template (możesz wykorzystać już gotowe wzorce z GitHub), który wykorzystuje koncepcję Linked Templates. Template powinien zbudować środowisko złożone z jednej sieci VNET, podzielonej na dwa subnety. W każdy subnecie powinna powstać najprostsza maszyna wirtualna z systemem Ubuntu 18.04 a na każdym subnecie powinny zostać skonfigurowane NSG.
