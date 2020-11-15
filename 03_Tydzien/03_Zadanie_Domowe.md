@@ -20,7 +20,7 @@ Nie wymyślając koła i bazując na dobrych praktykach które znalazłem pod ad
 
 Wymyśliłem poniższą konwencję nazw dla obiektów:
 
-<business unit>-<asset type>-<region or subregion>-<number nnn>
+`<business unit>-<asset type>-<region or subregion>-<number nnn>`
 
 ## Przykłady dla każdego modułu:
 
@@ -36,11 +36,15 @@ Wymyśliłem poniższą konwencję nazw dla obiektów:
 
 Co oznacza: Deweloperska baza danych Azure SQL dla działu IT w regionie: europa zachodnia
 
+
+
 ## Kilka interesujących artykułów do rozważenia:
 
 Rozważania dotyczące skrócenia nazw regionów, w przypadku bardzo długiej nazwy zasobu, każdy znak na wagę złota :) [Adventures with Azure: Regions](http://www.mattruma.com/adventures-with-azure-regions/)
 
 [7 Rules for Flawless Azure Naming Convention](https://www.ais.com/7-rules-for-flawless-azure-naming-convention/)
+
+[What does a good Azure naming convention look like?](https://sharegate.com/blog/what-does-a-good-azure-naming-convention-look-like)
 
 Ograniczenia w nazewnictwie dla poszczególnych obiektów z Azure [Naming rules and restrictions for Azure resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/resource-name-rules)
 
