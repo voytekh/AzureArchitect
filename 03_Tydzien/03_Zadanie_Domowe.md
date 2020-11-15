@@ -16,7 +16,7 @@ Zbuduj prostą konwencję nazewniczą dla min. takich zasobów jak Grupa Zasobó
 
 Nie wymyślając koła i bazując na dobrych praktykach które znalazłem pod adresem:
 
-## [Recommended naming and tagging conventions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging)
+## [AZure Recommended naming and tagging conventions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging)
 
 Wymyśliłem poniższą konwencję nazw dla obiektów:
 
@@ -25,7 +25,12 @@ Wymyśliłem poniższą konwencję nazw dla obiektów:
 ## Przykłady dla każdego modułu:
 
 - business unit: `it, fin, mktg, product, corp`
-- asset type: `(Management group) mg-, (Resource group) rg-, (Public IP address) pip-, (Virtual machine) vm-, (Azure SQL database) sqldb-`
+- asset type:
+`(Management group) mg-,
+(Resource group) rg-,
+(Public IP address) pip-,
+(Virtual machine) vm-,
+(Azure SQL database) sqldb-`
 - environment: `prod, dev, qa, stage, test`
 - region or subregion: `westus, eastus2, westeurope, usgovia`
 - number: `numer kolejny w formacie nnn`
