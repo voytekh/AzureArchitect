@@ -25,12 +25,7 @@ Wymyśliłem poniższą konwencję nazw dla obiektów:
 ## Przykłady dla każdego modułu:
 
 - business unit: `it, fin, mktg, product, corp`
-- asset type:
-`(Management group) mg-,
-(Resource group) rg-,
-(Public IP address) pip-,
-(Virtual machine) vm-,
-(Azure SQL database) sqldb-`
+- asset type:`(Management group) mg-, (Resource group) rg-, (Public IP address) pip-, (Virtual machine) vm-, (Azure SQL database) sqldb-`
 - environment: `prod, dev, qa, stage, test`
 - region or subregion: `westus, eastus2, westeurope, usgovia`
 - number: `numer kolejny w formacie nnn`
@@ -39,9 +34,9 @@ Wymyśliłem poniższą konwencję nazw dla obiektów:
 
 `it-sqldb-dev-westeurope-001`
 
-Co oznacza: Deweloperska baza danych Azure SQL dla działu IT w regionie: europa zachodnia
+Co oznacza: Deweloperska baza danych Azure SQL dla działu IT w regionie: europa zachodnia.
 
-
+Dodatkowo uważam że dobrym rozwiązaniem jest korzystanie w maksymalnym stopniu z `Metadata tags` Pozwala to na przechowanie większej ilości informacji, dodatkowo umożliwiając wykonywanie akcji na podstawie zdefiniowanych tagów.
 
 ## Kilka interesujących artykułów do rozważenia:
 
