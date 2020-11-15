@@ -36,9 +36,15 @@ Wymyśliłem poniższą konwencję nazw dla obiektów:
 
 Co oznacza: Deweloperska baza danych Azure SQL dla działu IT w regionie: europa zachodnia
 
-Kilka interesujących artykułów do rozważenia:
+## Kilka interesujących artykułów do rozważenia:
 
-[Rozważania dotyczące skrócenia nazw regionów, w przypadku bardzo długiej nazwy zasobu, każdy znak na wagę złota :)](http://www.mattruma.com/adventures-with-azure-regions/)
+Rozważania dotyczące skrócenia nazw regionów, w przypadku bardzo długiej nazwy zasobu, każdy znak na wagę złota :) [Adventures with Azure: Regions](http://www.mattruma.com/adventures-with-azure-regions/)
+
+[7 Rules for Flawless Azure Naming Convention](https://www.ais.com/7-rules-for-flawless-azure-naming-convention/)
+
+Ograniczenia w nazewnictwie dla poszczególnych obiektów z Azure [Naming rules and restrictions for Azure resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/resource-name-rules)
+
+
 
 ## [#TYDZIEN3.2]:
 Zbuduj prosty ARM Template (możesz wykorzystać już gotowe wzorce z GitHub), który wykorzystuje koncepcję Linked Templates. Template powinien zbudować środowisko złożone z jednej sieci VNET, podzielonej na dwa subnety. W każdy subnecie powinna powstać najprostsza maszyna wirtualna z systemem Ubuntu 18.04 a na każdym subnecie powinny zostać skonfigurowane NSG.
