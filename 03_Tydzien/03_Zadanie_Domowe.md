@@ -20,15 +20,21 @@ Nie wymyślając koła i bazując na dobrych praktykach które znalazłem pod ad
 
 Wymyśliłem poniższą konwencję nazw dla obiektów:
 
-<business unit>-<asset type>-<region or subregion>-<number>
+<business unit>-<asset type>-<region or subregion>-<number nnn>
 
 ## Przykłady dla każdego modułu:
 
-- business unit:
-- asset type:
-- environment:
-- region or subregion:
-- number
+- business unit: `it, fin, mktg, product, corp`
+- asset type: `(Management group) mg-, (Resource group) rg-, (Public IP address) pip-, (Virtual machine) vm-, (Azure SQL database) sqldb-`
+- environment: `prod, dev, qa, stage, test`
+- region or subregion: `westus, eastus2, westeurope, usgovia`
+- number: `numer kolejny w formacie nnn`
+
+## Przykładowa nazwa obiektu:
+
+`it-sqldb-dev-westeurope-001`
+
+Co oznacza: Deweloperska baza danych Azure SQL dla działu IT w regionie: europa zachodnia
 
 Kilka interesujących artykułów do rozważenia:
 
