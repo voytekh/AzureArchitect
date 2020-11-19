@@ -38,6 +38,8 @@ Co oznacza: Deweloperska baza danych Azure SQL dla działu IT w regionie: europa
 
 Dodatkowo uważam że dobrym rozwiązaniem jest korzystanie w maksymalnym stopniu z `Metadata tags` Pozwala to na przechowanie większej ilości informacji, dodatkowo umożliwiając wykonywanie akcji na podstawie zdefiniowanych tagów.
 
+Uwaga: Podstawa to dokładna i na bieżąco aktualizowana dokumentacja.
+
 ## Kilka interesujących artykułów do rozważenia:
 
 Rozważania dotyczące skrócenia nazw regionów, w przypadku bardzo długiej nazwy zasobu, każdy znak na wagę złota :) [Adventures with Azure: Regions](http://www.mattruma.com/adventures-with-azure-regions/)
