@@ -20,7 +20,7 @@ Nie wymyślając koła i bazując na dobrych praktykach które znalazłem pod ad
 
 Wymyśliłem poniższą konwencję nazw dla obiektów:
 
-`<business unit>-<asset type>-<enviroment>-<region or subregion>-<number nnn>`
+`<business unit>-<asset type>-<environment>-<region or subregion>-<number nnn>`
 
 ## Przykłady dla każdego modułu:
 
